@@ -1,0 +1,35 @@
+# OS & Temp
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+*.tmp
+*.log
+.dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.sublime-project
+
+# Java / Maven / Gradle
+target/
+build/
+bin/
+*.class
+*.jar
+*.war
+
+# Private / Lecturer materials (Không đưa lên Git của SV)
+*.pdf
+*.docx
+*.pptx
+*.xlsx
+Note.md
+HUONG_DAN_TRIEN_KHAI_ASSIGNMENT_GITHUB.md
+01-syllabus-guidelines/
+02-assignment-template/
+03-lecture-materials/
+05-ai-prompt-library/
+SOF304*
